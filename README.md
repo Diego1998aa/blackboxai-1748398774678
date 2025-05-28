@@ -1,2 +1,2 @@
-# blackboxai-1748398774678
-Built by https://www.blackbox.ai
+Pagina web con HTML, JavaScript, css del colegio Olegario Morales Oliva. 
+Semi-completo.
